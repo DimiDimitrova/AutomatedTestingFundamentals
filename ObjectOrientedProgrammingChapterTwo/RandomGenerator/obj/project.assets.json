@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\RandomGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\RandomGenerator.csproj",
       "projectName": "RandomGenerator",
-      "projectPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\RandomGenerator.csproj",
+      "projectPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\RandomGenerator.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\RandomGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
