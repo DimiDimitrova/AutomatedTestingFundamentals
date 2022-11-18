@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\bin\Debug\net6.0\PrimitiveDataTypesAndVariables.exe
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\bin\Debug\net6.0\PrimitiveDataTypesAndVariables.deps.json
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\bin\Debug\net6.0\PrimitiveDataTypesAndVariables.runtimeconfig.json
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\bin\Debug\net6.0\PrimitiveDataTypesAndVariables.dll
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\bin\Debug\net6.0\PrimitiveDataTypesAndVariables.pdb
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.dll
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\refint\PrimitiveDataTypesAndVariables.dll
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.pdb
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\PrimitiveDataTypesAndVariables.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TestSolution\PrimitiveDataTypesAndVariables\obj\Debug\net6.0\ref\PrimitiveDataTypesAndVariables.dll

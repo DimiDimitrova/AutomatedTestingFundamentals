@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\bin\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.exe
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\bin\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.deps.json
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\bin\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.runtimeconfig.json
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\bin\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.dll
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\bin\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.pdb
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.dll
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\refint\CalculatesAndPrintTheSquareOfTheNumber.dll
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.pdb
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\CalculatesAndPrintTheSquareOfTheNumber.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TestSolution\CalculatesAndPrintTheSquareOfTheNumber\obj\Debug\net6.0\ref\CalculatesAndPrintTheSquareOfTheNumber.dll

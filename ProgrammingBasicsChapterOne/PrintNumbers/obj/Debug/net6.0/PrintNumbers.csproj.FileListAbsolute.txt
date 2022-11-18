@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\bin\Debug\net6.0\PrintNumbers.exe
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\bin\Debug\net6.0\PrintNumbers.deps.json
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\bin\Debug\net6.0\PrintNumbers.runtimeconfig.json
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\bin\Debug\net6.0\PrintNumbers.dll
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\bin\Debug\net6.0\PrintNumbers.pdb
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.dll
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\refint\PrintNumbers.dll
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.pdb
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\PrintNumbers.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TestSolution\PrintNumbers\obj\Debug\net6.0\ref\PrintNumbers.dll

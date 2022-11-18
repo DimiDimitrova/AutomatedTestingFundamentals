@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\bin\Debug\net6.0\PrintCurrentDateAndTime.exe
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\bin\Debug\net6.0\PrintCurrentDateAndTime.deps.json
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\bin\Debug\net6.0\PrintCurrentDateAndTime.runtimeconfig.json
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\bin\Debug\net6.0\PrintCurrentDateAndTime.dll
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\bin\Debug\net6.0\PrintCurrentDateAndTime.pdb
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.dll
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\refint\PrintCurrentDateAndTime.dll
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.pdb
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\PrintCurrentDateAndTime.genruntimeconfig.cache
+C:\Users\dimit\source\repos\TestSolution\PrintCurrentDateAndTime\obj\Debug\net6.0\ref\PrintCurrentDateAndTime.dll
