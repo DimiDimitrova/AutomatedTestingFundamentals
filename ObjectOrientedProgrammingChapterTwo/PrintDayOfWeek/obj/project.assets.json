@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\PrintDayOfWeek.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\PrintDayOfWeek.csproj",
       "projectName": "PrintDayOfWeek",
-      "projectPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\PrintDayOfWeek.csproj",
+      "projectPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\PrintDayOfWeek.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\PrintDayOfWeek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\bin\Debug\net6.0\PrintDayOfWeek.exe
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\bin\Debug\net6.0\PrintDayOfWeek.deps.json
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\bin\Debug\net6.0\PrintDayOfWeek.runtimeconfig.json
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\bin\Debug\net6.0\PrintDayOfWeek.dll
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\bin\Debug\net6.0\PrintDayOfWeek.pdb
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.AssemblyInfo.cs
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.dll
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\refint\PrintDayOfWeek.dll
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.pdb
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\PrintDayOfWeek.genruntimeconfig.cache
+C:\Users\dimit\source\repos\AutomateThePlanetBook\AutomatedTestingFundamentals\ObjectOrientedProgrammingChapterTwo\PrintDayOfWeek\obj\Debug\net6.0\ref\PrintDayOfWeek.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\Methods\\Methods.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\Methods\\Methods.csproj",
+      "projectPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\source\\repos\\ObjectOrientedProgrammingChapterTwo\\Methods\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\source\\repos\\AutomateThePlanetBook\\AutomatedTestingFundamentals\\ObjectOrientedProgrammingChapterTwo\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
