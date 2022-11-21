@@ -1,10 +1,15 @@
 ﻿namespace Books
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Book book = new Book("Test", "Ivan Petkov", 10);
+
+            Console.WriteLine(book.ToString());
+
+            GoldenEditionBook goldenEditionBook = new GoldenEditionBook("Golden", "Dimi Dimitrova", 12.5);
+            Console.WriteLine(goldenEditionBook.ToString());
         }
     }
 }
