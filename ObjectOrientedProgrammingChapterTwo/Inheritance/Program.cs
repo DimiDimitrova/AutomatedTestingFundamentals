@@ -10,9 +10,7 @@
             {
                 Console.WriteLine($"People: {ivan.Name} and {pesho.Name} are not the same by id.");
             }
-            //Child child = new Child("Vancho",10);
-            //Console.WriteLine(child.Age);
-           // child.ToString();
+
         }
     }
 }
