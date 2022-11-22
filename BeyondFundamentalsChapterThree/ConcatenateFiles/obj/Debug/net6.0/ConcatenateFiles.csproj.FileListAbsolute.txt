@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\bin\Debug\net6.0\ConcatenateFiles.exe
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\bin\Debug\net6.0\ConcatenateFiles.deps.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\bin\Debug\net6.0\ConcatenateFiles.runtimeconfig.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\bin\Debug\net6.0\ConcatenateFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\bin\Debug\net6.0\ConcatenateFiles.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\refint\ConcatenateFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ConcatenateFiles.genruntimeconfig.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ConcatenateFiles\obj\Debug\net6.0\ref\ConcatenateFiles.dll

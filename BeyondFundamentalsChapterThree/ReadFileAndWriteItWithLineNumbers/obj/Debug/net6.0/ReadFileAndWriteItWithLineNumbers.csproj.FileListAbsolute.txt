@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\bin\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.exe
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\bin\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.deps.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\bin\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.runtimeconfig.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\bin\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\bin\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\refint\ReadFileAndWriteItWithLineNumbers.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ReadFileAndWriteItWithLineNumbers.genruntimeconfig.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\ReadFileAndWriteItWithLineNumbers\obj\Debug\net6.0\ref\ReadFileAndWriteItWithLineNumbers.dll

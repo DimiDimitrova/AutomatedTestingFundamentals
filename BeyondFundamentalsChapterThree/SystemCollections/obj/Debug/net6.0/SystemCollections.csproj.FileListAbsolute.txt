@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\bin\Debug\net6.0\SystemCollections.exe
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\bin\Debug\net6.0\SystemCollections.deps.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\bin\Debug\net6.0\SystemCollections.runtimeconfig.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\bin\Debug\net6.0\SystemCollections.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\bin\Debug\net6.0\SystemCollections.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\refint\SystemCollections.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\SystemCollections.genruntimeconfig.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\SystemCollections\obj\Debug\net6.0\ref\SystemCollections.dll

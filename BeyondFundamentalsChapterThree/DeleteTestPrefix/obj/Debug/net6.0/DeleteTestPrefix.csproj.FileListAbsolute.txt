@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\bin\Debug\net6.0\DeleteTestPrefix.exe
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\bin\Debug\net6.0\DeleteTestPrefix.deps.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\bin\Debug\net6.0\DeleteTestPrefix.runtimeconfig.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\bin\Debug\net6.0\DeleteTestPrefix.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\bin\Debug\net6.0\DeleteTestPrefix.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\refint\DeleteTestPrefix.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\DeleteTestPrefix.genruntimeconfig.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\DeleteTestPrefix\obj\Debug\net6.0\ref\DeleteTestPrefix.dll

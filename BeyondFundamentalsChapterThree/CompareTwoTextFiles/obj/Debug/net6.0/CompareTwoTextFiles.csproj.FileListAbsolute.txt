@@ -1,0 +1,15 @@
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\bin\Debug\net6.0\CompareTwoTextFiles.exe
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\bin\Debug\net6.0\CompareTwoTextFiles.deps.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\bin\Debug\net6.0\CompareTwoTextFiles.runtimeconfig.json
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\bin\Debug\net6.0\CompareTwoTextFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\bin\Debug\net6.0\CompareTwoTextFiles.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\refint\CompareTwoTextFiles.dll
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.pdb
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\CompareTwoTextFiles.genruntimeconfig.cache
+C:\Users\dimit\source\repos\BeyondFundamentalsChapterThree\CompareTwoTextFiles\obj\Debug\net6.0\ref\CompareTwoTextFiles.dll
