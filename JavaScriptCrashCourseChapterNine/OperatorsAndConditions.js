@@ -46,8 +46,6 @@ else if (number > 1) {
         }
     }
 
-
-    
     if (isPrime) {
         console.log(`${number} is a prime number`);
     } else {
