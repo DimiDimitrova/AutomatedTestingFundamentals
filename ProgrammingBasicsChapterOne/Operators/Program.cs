@@ -27,8 +27,25 @@ namespace Operators
             Console.WriteLine($"Rectangle's area is: {rectangleArea}");
 
 
-            //3.Write an expression that checks if given positive integer number n(n ≤ 100) is prime.
-            //E.g. 37 is prime.
+            bool isPrime = true;
+            int numberInput;         
+            bool isInt = int.TryParse(Console.ReadLine(), out numberInput);
+
+            if (isInt)
+            {
+                for (int i = 2; i <= Math.Sqrt(numberInput); i++)
+                {
+                    if (numberInput % i == 0)
+                    {
+                        isPrime = false;
+                    }
+                }
+                Console.WriteLine("This is a prime number: {0}", isPrime);
+            }
+            else
+            {
+                Console.WriteLine("Not a valid entry!");
+            }
 
             //4.Write an expression that calculates trapezoid's area by given sides a and b and height h.
             Console.WriteLine("Enter trapezoid's side a:");
