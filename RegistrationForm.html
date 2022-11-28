@@ -8,17 +8,17 @@
         <div class="container">
         <p>
         <label for="username">Username or email address<span class="required">*</span></label>
-        <input type="text" class="Input" name="username" id="username" autocomplete="off">
+        <input type="text" class="Input" name="username" id="username" autocomplete="off" required>
        </p>
        <p>
         <label for="password">Password<span class="required">*</span></label>
         <span class="password-input">
-            <input type="password" class="Input" name="password" id="password"></span>
+            <input type="password" class="Input" name="password" id="password" required></span>
         </p>
         <p>
             <label for="country">Country<span class="required">*</span></label>
             <span class="country_dropdown">
-                <select id="country" name="country">
+                <select id="country" name="country" required>
                     <option value="Afghanistan">Afghanistan</option>
                 <option value="Åland Islands">Åland Islands</option>
                 <option value="Albania">Albania</option>
@@ -268,15 +268,15 @@
             </p>
         <p>
             <label for="zip">Zip code<span class="required">*</span></label>
-            <input type="text" id="zip" name="zip" pattern="[0-9]*">
+            <input type="text" id="zip" name="zip" required pattern="[0-9]*">
         </p>
         <p>
             <label for="city">City<span class="required">*</span></label>
-            <input type="text" id="city" name="city">
+            <input type="text" id="city" name="city" required>
         </p>
         <p>
             <label for="address">Address<span class="required">*</span></label>
-            <input type="text" id="address" name="address">
+            <input type="text" id="address" name="address" required>
         </p>
         <p>
             <label for="phone">Phone number</label>
