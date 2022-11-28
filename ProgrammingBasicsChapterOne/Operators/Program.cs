@@ -42,6 +42,19 @@ namespace Operators
             Console.WriteLine($"Trapezoid's area is: {trapezoidArea}");
 
 
+            int fistNumber = Int32.Parse(Console.ReadLine());
+            int secondNumber = Int32.Parse(Console.ReadLine());
+
+            if (fistNumber > b)
+            {
+                fistNumber = fistNumber + secondNumber;
+                secondNumber = fistNumber - secondNumber;
+                fistNumber = fistNumber - secondNumber;
+            }
+
+            Console.WriteLine("{0},{1}", fistNumber, secondNumber);
+
+
         }
     }
 }
