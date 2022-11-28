@@ -28,50 +28,64 @@ namespace Operators
 
 
             bool isPrime = true;
-            int numberInput;         
+            int numberInput;
             bool isInt = int.TryParse(Console.ReadLine(), out numberInput);
 
             if (isInt)
             {
-                for (int i = 2; i <= Math.Sqrt(numberInput); i++)
+                if (numberInput == 1)
                 {
-                    if (numberInput % i == 0)
+                    Console.WriteLine($"{numberInput} is not prime.");
+                }
+                else if (numberInput > 1)
+                {
+
+                    for (int i = 2; i < numberInput; i++)
                     {
-                        isPrime = false;
+                        if (numberInput % i == 0)
+                        {
+                            isPrime = false;
+                            break;
+                        }
+                    }
+                    if (isPrime)
+                    {
+                        Console.WriteLine($"{numberInput} is a prime number.");
+                    }
+                    else {
+                        Console.WriteLine($"{numberInput} is a not prime number.");
                     }
                 }
-                Console.WriteLine("This is a prime number: {0}", isPrime);
+                else
+                {
+                    Console.WriteLine("Not a valid entry!");
+                }
+
+                //4.Write an expression that calculates trapezoid's area by given sides a and b and height h.
+                Console.WriteLine("Enter trapezoid's side a:");
+                double a = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Enter trapezoid's side b:");
+                double b = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Enter trapezoid's height h:");
+                double h = Convert.ToDouble(Console.ReadLine());
+                //  1/2(a+b)*h
+                double trapezoidArea = ((a + b) / 2) * h;
+                Console.WriteLine($"Trapezoid's area is: {trapezoidArea}");
+
+
+                int fistNumber = Int32.Parse(Console.ReadLine());
+                int secondNumber = Int32.Parse(Console.ReadLine());
+
+                if (fistNumber > b)
+                {
+                    fistNumber = fistNumber + secondNumber;
+                    secondNumber = fistNumber - secondNumber;
+                    fistNumber = fistNumber - secondNumber;
+                }
+
+                Console.WriteLine("{0},{1}", fistNumber, secondNumber);
+
+
             }
-            else
-            {
-                Console.WriteLine("Not a valid entry!");
-            }
-
-            //4.Write an expression that calculates trapezoid's area by given sides a and b and height h.
-            Console.WriteLine("Enter trapezoid's side a:");
-            double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter trapezoid's side b:");
-            double b = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter trapezoid's height h:");
-            double h = Convert.ToDouble(Console.ReadLine());
-            //  1/2(a+b)*h
-            double trapezoidArea = ((a + b) / 2) * h;
-            Console.WriteLine($"Trapezoid's area is: {trapezoidArea}");
-
-
-            int fistNumber = Int32.Parse(Console.ReadLine());
-            int secondNumber = Int32.Parse(Console.ReadLine());
-
-            if (fistNumber > b)
-            {
-                fistNumber = fistNumber + secondNumber;
-                secondNumber = fistNumber - secondNumber;
-                fistNumber = fistNumber - secondNumber;
-            }
-
-            Console.WriteLine("{0},{1}", fistNumber, secondNumber);
-
-
         }
     }
-}
